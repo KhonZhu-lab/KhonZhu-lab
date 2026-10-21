@@ -8,16 +8,18 @@
 
 ### Featured projects
 
+My repositories are private. Happy to walk through the code on a call or share access for a client project. Details for each project are on [thescorpia.com](https://thescorpia.com).
+
 | Project | What it does | Stack |
 |---|---|---|
 | **[Scorpia suite](https://thescorpia.com)** | CRM and pipeline desk, social media harvester and batch AI image studio, deployed as 5+ services on my own Ubuntu VPS | Next.js, Prisma, PostgreSQL, Python, Flask, Playwright, Docker, Nginx |
-| **[harvester-multi](https://github.com/KhonZhu-lab/harvester-multi)** | Multi-user social media harvester with persistent browser sessions, rate-limited queues, 2FA logins and Google Drive sync | Python, Flask, Playwright, Drive API |
-| **[jarvis](https://github.com/KhonZhu-lab/jarvis)** | Local voice assistant: wake word, speech-to-text and a local LLM, no cloud needed | llama.cpp, openWakeWord, faster-whisper |
+| **Social Media Harvester** | Multi-user social media harvester with persistent browser sessions, rate-limited queues, 2FA logins and Google Drive sync | Python, Flask, Playwright, Drive API |
+| **Jarvis** | Local voice assistant: wake word, speech-to-text and a local LLM, no cloud needed | llama.cpp, openWakeWord, faster-whisper |
 | **Generative AI image studio** | Stable Diffusion (Forge), Realistic Vision + LoRAs, Qwen-Image-Edit and FLUX behind one studio with credit tracking | Python, ComfyUI, RunPod, Next.js |
 | **Bionic / Reelist** | Movie and series streaming platform with FFmpeg/HLS transcoding, plus a Netflix-style discovery front end | Node.js, React, Next.js, FFmpeg, HLS |
 | **Coding-agent server** | Qwen2.5-Coder served with llama.cpp and FastAPI for aider, Continue and Cline | llama.cpp, FastAPI, Colab GPU |
 | **Minutes AI** | Live in-browser transcription turned into meeting minutes and action items | Web Audio, Whisper, Node.js |
-| **[digital-portfolio](https://github.com/KhonZhu-lab/digital-portfolio)** | The source of thescorpia.com | HTML, CSS, JavaScript, Vercel |
+| **thescorpia.com** | My portfolio site | HTML, CSS, JavaScript, Vercel |
 
 **In progress:** an automated YouTube Shorts pipeline (AI scripting, visuals, FFmpeg editing, publishing) and my own games.
 
