@@ -18,7 +18,7 @@ My repositories are private. Happy to walk through the code on a call or share a
 | **Generative AI image studio** | Stable Diffusion (Forge), Realistic Vision + LoRAs, Qwen-Image-Edit and FLUX behind one studio with credit tracking | Python, ComfyUI, RunPod, Next.js |
 | **Bionic / Reelist** | Movie and series streaming platform with FFmpeg/HLS transcoding, plus a Netflix-style discovery front end | Node.js, React, Next.js, FFmpeg, HLS |
 | **Coding-agent server** | Qwen2.5-Coder served with llama.cpp and FastAPI for aider, Continue and Cline | llama.cpp, FastAPI, Colab GPU |
-| **Minutes AI** | Live in-browser transcription turned into meeting minutes and action items | Web Audio, Whisper, Node.js |
+| **Minutes AI** | Live in-browser transcription turned into meeting minutes and action items | Next.js, Web Speech API, Claude / Gemini |
 | **thescorpia.com** | My portfolio site | HTML, CSS, JavaScript, Vercel |
 
 **In progress:** an automated YouTube Shorts pipeline (AI scripting, visuals, FFmpeg editing, publishing) and my own games.
